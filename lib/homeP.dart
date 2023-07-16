@@ -127,7 +127,7 @@ class _AppState extends State<App> {
                 child: Stack(
                   children: [
                     Positioned(
-                      top: 35,
+                      top: 34,
                       left: 340,
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(7),
