@@ -6,7 +6,6 @@ import 'add_date.dart';
 // TypeAdapterGenerator
 // **************************************************************************
 
-
 class AdddataAdapter extends TypeAdapter<Add_data> {
   @override
   final int typeId = 1;
