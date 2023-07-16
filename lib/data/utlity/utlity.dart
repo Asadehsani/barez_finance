@@ -4,7 +4,6 @@ import '../model/add_date.dart';
 
 int totals = 0;
 final box = Hive.box<Add_data>('data');
-
 int total() {
   var history2 = box.values.toList();
 List a = [];
