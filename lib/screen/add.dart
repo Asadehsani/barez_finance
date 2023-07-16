@@ -53,7 +53,7 @@ class _add_ScreenState extends State<add_Screen> {
             children: [
               background_container(context),
               Positioned(
-                top: 120,
+                top: 121,
                 child: main_Container(),
               )
             ],
