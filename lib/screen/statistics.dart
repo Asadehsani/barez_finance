@@ -49,7 +49,7 @@ class _StatisticsState extends State<Statistics> {
                                   });
                                 },
                                 child: Container(
-                                  height: 40,
+                                  height: 41,
                                   width: 80,
                                   decoration: BoxDecoration(
                                       borderRadius: BorderRadius.circular(10),
