@@ -1,5 +1,6 @@
 import 'package:hive/hive.dart';
 @HiveType(typeId: 1)
+
 class Add_data extends HiveObject {
   @HiveField(0)
   String name;
